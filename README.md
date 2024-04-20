@@ -7,6 +7,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 |기획&백엔드|백엔드|백엔드|안드로이드|안드로이드|
 |[kimsunfang](https://github.com/kimsunfang)|[12OneTwo12](https://github.com/12OneTwo12)|[chan0966](https://github.com/chan0966)|[woojugoing](https://github.com/woojugoing)|[Ganghyungoo](https://github.com/Ganghyungoo)|
-|![](https://avatars.githubusercontent.com/u/35277854?v=4)|![](https://avatars.githubusercontent.com/u/55571682?v=4)|![](https://avatars.githubusercontent.com/u/59433441?v=4)|![](https://avatars.githubusercontent.com/u/57715601?v=4)|
+|||||
 
 
