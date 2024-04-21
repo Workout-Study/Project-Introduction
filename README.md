@@ -6,7 +6,16 @@
 
 
 
+## Application Demonstration Video
+
+해당 이미지를 클릭 시 영상으로 이동합니다.
+
+[![FITMATE Demo Video](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fyoutube_screenshot.png?alt=media&token=e047ec98-4205-431b-9ec9-8d1b666586ed)](https://www.youtube.com/watch?v=hU05MZoTvVI)
+
+
+
 ## Team FITMATE
+
 | 팀원   | 역할         | 작업 내용                                       | GitHub Link                                   |
 | ------ | ------------ | :---------------------------------------------- | --------------------------------------------- |
 | 김성호 | 기획, 백엔드 | 실시간 단체 채팅                                | [kimsunfang](https://github.com/kimsunfang)   |
@@ -78,3 +87,8 @@
 |                       그룹 진척도 화면                       |                     그룹 투표 현황 화면                      |                     그룹 벌금 내역 화면                      |                         내 정보 화면                         |                      오픈소스 고지 화면                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![chat_progress](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fchat_progress.png?alt=media&token=a2a25c35-d41a-4ba6-a825-869a9c63ff9f) | ![chat_vote](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fchat_vote.png?alt=media&token=302ae983-62a3-4db7-b1be-67e0f45748cf) | ![chat_fine](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fchat_fine.png?alt=media&token=da5ecf3e-d7bc-4843-a3bc-de0a0528e843) | ![mypage_main](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fmypage_main.png?alt=media&token=62397221-cc06-466b-9eae-1bbe21e08b01) | ![mypage_license](https://firebasestorage.googleapis.com/v0/b/fitmate-e2b03.appspot.com/o/fitmate_images%2Fmypage_license.png?alt=media&token=c229444c-fdfc-4ae9-9ce6-e2d48c13b6c6) |
+
+
+
+## 
+(https://www.youtube.com/watch?v=hU05MZoTvVI)
